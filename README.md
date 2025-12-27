@@ -39,4 +39,4 @@ Return Error Messeage is true, because we restarted kernel here.
 
 ### 5. Open Gradio UI and Start! (Cell 6)
 
-<img src="result.png" width="60%">
+<img src="./public/result.png" width="60%">
